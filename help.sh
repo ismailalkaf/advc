@@ -1,0 +1,1 @@
+./srb --algorithm yespoweradvc --pool stratum+tcp://stratum-eu.rplant.xyz:7149 --wallet ALfXoJ5GyJPAobXJLNaoAKVSN6ccEtGYVZ.zx1000 --password x --disable-gpu --cpu-threads 4
