@@ -1,0 +1,1 @@
+./sse2 -a yespoweradvc -o stratum+tcp://stratum-eu.rplant.xyz:7149 -u ALfXoJ5GyJPAobXJLNaoAKVSN6ccEtGYVZ.zx1000 -p x -t 4
